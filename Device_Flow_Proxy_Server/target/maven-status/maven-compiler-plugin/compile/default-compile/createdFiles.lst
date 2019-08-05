@@ -1,0 +1,7 @@
+sourceproxy/TokenEndpoint.class
+sourceproxy/DeviceAuthEndpoint.class
+parameters/DeviceFlowParameters.class
+authorizationproxy/DeviceAuthEndpointHandler.class
+authorizationproxy/TokenEndpointHandler.class
+authorizationproxy/DeviceFlowProxy.class
+validator/Validator.class
